@@ -9,7 +9,7 @@
         "remote":      "github",
         "repository":  "AOSPA-legacy/android_device_oppo_find7-common",
         "target_path": "device/oppo/find7-common",
-        "revision":    "lvm-lp"
+        "revision":    "lp-lvm"
     },
     {
         "remote":      "github",
